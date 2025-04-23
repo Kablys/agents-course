@@ -1,0 +1,1 @@
+Notes for [Hugging Face Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction)
